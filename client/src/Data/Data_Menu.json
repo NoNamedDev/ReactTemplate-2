@@ -1,0 +1,103 @@
+[
+    {
+        "category" : "Soft Drinks",
+        "items" : [
+            {
+                "name" : "Coca Cola",
+                "price" : 2.50
+            },
+            {
+                "name" : "Fanta",
+                "price" : 2.20
+            },
+            {
+                "name" : "Water",
+                "price" : 1.50
+            }
+        ]
+    },
+    {
+        "category" : "Alcohol",
+        "items" : [
+            {
+                "name" : "Whiskey",
+                "price" : 8.50
+            },
+            {
+                "name" : "Rhum",
+                "price" : 7.50
+            },
+            {
+                "name" : "Blonde Beer",
+                "price" : 3.50
+            },
+            {
+                "name" : "Brown Beer",
+                "price" : 4.50
+            }
+        ]
+    },
+    {
+        "category" : "Pizza",
+        "items" : [
+            {
+                "name" : "Margerita",
+                "price" : 15.00
+            },
+            {
+                "name" : "Hawaii",
+                "price" : 9.90
+            },
+            {
+                "name" : "Forest",
+                "price" : 12.50
+            },
+            {
+                "name" : "Quatro Fromaggi",
+                "price" : 13.00
+            },
+            {
+                "name" : "Devilosa",
+                "price" : 16.30
+            }
+        ]
+    },
+    {
+        "category" : "Pasta",
+        "items" : [
+            {
+                "name" : "Bolo",
+                "price" : 10.00
+            },
+            {
+                "name" : "Veggy",
+                "price" : 8.00
+            },
+            {
+                "name" : "Magic Shroom",
+                "price" : 12.50
+            },
+            {
+                "name" : "4 Cheese",
+                "price" : 8.60
+            }
+        ]
+    },
+    {
+        "category" : "Dessert",
+        "items" : [
+            {
+                "name" : "Vanilla Ice Cream",
+                "price" : 5.55
+            },
+            {
+                "name" : "Cheese Cake",
+                "price" : 8.00
+            },
+            {
+                "name" : "Brownies",
+                "price" : 3.99
+            }
+        ]
+    }
+]

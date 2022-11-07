@@ -1,0 +1,45 @@
+{
+    "restaurant_name" : "Come to Papa",
+    "restaurant_footer" : [
+        {
+            "DevName" : "NoNamed-Dev",
+            "DevHref" : "https://www.google.com"
+        },
+        {
+            "text_openning_hours" : "Opening Hours"
+        }
+    ],
+    "terms_of_service_href" : "/tos",
+    "opening_hours_text" : "Opening Hours",
+    "opening_hours" : [
+        {
+            "day" : "Monday",
+            "hours" : "CLOSED"
+        },
+        {
+            "day" : "Tuesday",
+            "hours" : "9:00 - 22:00"
+        },
+        {
+            "day" : "Wednesday",
+            "hours" : "10:00 - 22:00"
+        },
+        {
+            "day" : "Thursday",
+            "hours" : "10:00 - 22:00"
+        },
+        {
+            "day" : "Friday",
+            "hours" : "10:00 - 22:00"
+        },
+        {
+            "day" : "Saturday",
+            "hours" : "10:00 - 22:00"
+        },
+        {
+            "day" : "Sunday",
+            "hours" : "10:00 - 22:00"
+        }
+    ]
+
+}
